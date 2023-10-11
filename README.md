@@ -6,7 +6,7 @@ A new Flutter project.
 
 Flutter Food recipes app
 
-## Screenshots
+## Screenshots 
 ![Screenshot_2023-10-11-21-21-18-529_com example cooking_recipes (Small)](https://github.com/Omarg7/Foodie/assets/47927337/fdce615c-9723-4321-a63b-c9eed6e716c3)
 
 ![Screenshot_2023-10-11-21-20-53-235_com example cooking_recipes (Small)](https://github.com/Omarg7/Foodie/assets/47927337/ec86e738-a4c6-4b1d-9486-af281ea99088)
