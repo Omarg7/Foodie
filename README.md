@@ -9,7 +9,7 @@ Flutter Food recipes app
 ## Screenshots
 ![Screenshot_2023-10-11-21-21-18-529_com example cooking_recipes (Small)](https://github.com/Omarg7/Foodie/assets/47927337/fdce615c-9723-4321-a63b-c9eed6e716c3)
 
-![S![Screenshot_2023-10-11-21-20-53-235_com example cooking_recipes (Small)](https://github.com/Omarg7/Foodie/assets/47927337/ec86e738-a4c6-4b1d-9486-af281ea99088)
+![Screenshot_2023-10-11-21-20-53-235_com example cooking_recipes (Small)](https://github.com/Omarg7/Foodie/assets/47927337/ec86e738-a4c6-4b1d-9486-af281ea99088)
 ![Screenshot_2023-10-11-21-20-27-891_com example cooking_recipes (Small)](https://github.com/Omarg7/Foodie/assets/47927337/3f6b0f0a-55d3-4c6c-bed7-e812139d9d60)
 ![Screenshot_2023-10-11-21-20-18-860_com example cooking_recipes (Small)](https://github.com/Omarg7/Foodie/assets/47927337/2c82049b-6279-4885-b045-50b950a34331)
 ![Screenshot_2023-10-11-21-20-13-367_com example cooking_recipes (Small)](https://github.com/Omarg7/Foodie/assets/47927337/251bbb26-9806-40a9-855d-412c7a6ae65a)
